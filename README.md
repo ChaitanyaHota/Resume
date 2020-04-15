@@ -10,8 +10,6 @@ PROFESSIONAL SUMMARY:
 
 	Experience with Lightning / AURA Framework
 
-	Trained in LWC
-
 	Identify opportunities to fine-tune and optimize applications of developed projects
 
 	Customization of Salesforce according to client requirements
@@ -32,7 +30,9 @@ PROFESSIONAL SUMMARY:
 
 	Working with onsite counterpart to gather requirement and execute it to development
 
-	Thorough understanding on the Lifecycle of Development including Salesforce Deployment/Packaging effectively using ChangeSet , Metadata API, Ant , VS Code
+	Thorough understanding on the Lifecycle of Development including Salesforce Deployment/Packaging effectively using ChangeSet , 		Metadata API, Ant , VS Code
+
+	Trained in LWC	
 
 	Managed work management through JIRA, BASE CAMP, TIMESHEET tools
 
@@ -48,7 +48,7 @@ EXPERIENCE SUMMARY
 	Working as Technology Specialist at WELLS FARGO, HYDERABAD, from Nov 2015 to Till Date
 	Working as Senior Software Engineer at AVANKIA LLC, Bangalore, from Nov 2013 to Nov 2015
 	Worked as a Software Engineer at IRIDIUM INTERACTIVE LIMITED, 
-Hyderabad from OCT2010 to OCT2013
+	Hyderabad from OCT2010 to OCT2013
 
 
 
@@ -61,7 +61,9 @@ JavaScript, CSS
 METADATA API, SOAP API, REST API.
 AURA Framework, LWC
 
-Dev Ops Tools 	JIRA; GIT (Source Control); Eclipse; VS Code; M.S Excel; M.S Visio
+Dev Ops Tools 
+
+JIRA; GIT (Source Control); Eclipse; VS Code; M.S Excel; M.S Visio
 
 
 
@@ -79,7 +81,7 @@ Title	S3
 Client		WELLS FARGO
 Role		Salesforce Development
 
-	Description:
+Description:
 
 This application is used by Salesforce Administrators to do CRUD operations of Salesforce Metadata like creating User, requesting for Deployment Request etc., through this application.
 
@@ -90,17 +92,10 @@ Title	HR Data
 Client		WELLS FARGO
 Role		Salesforce Development/Administration
 
-	Description:
+Description:
 
 This application is used by HR Systems where the data Collected by individual LOB’s.
 In this application the data which HR Systems wants to use from different objects will be mapped using Custom Metadata. Once the Objects are Mapped the information will be mapped into HR Data Custom object where the Informatica team communicate and extract the data and sends it to the HR Systems.
-
-
-
-
-
-
-
 
 
 PROJECT 
@@ -109,7 +104,7 @@ Title	Data Extract
 Client		WELLS FARGO
 Role		Salesforce Development/Administration
 
-	Description:
+Description:
 
 This application is used to get the Metadata of Standard and Custom Objects.
 The interface is built on Salesforce lightning platform. Once the user selects the Metadata user records gets saved in ‘Object Selected’ Custom object.
@@ -122,11 +117,11 @@ Title	WCIS Search
 Client		WELLS FARGO
 Role		Salesforce Development/Administration
 
-	Description:
+Description:
 
 WCIS Integration Services is a platform of WellsFargo Proprietary where different LOB’s information will be saved. Whenever Salesforce is creating a new record the relevant data is searched in WCIS systems and creates or updates the Information.
 This system is presently using SOAP services. 
-	This system is migrated to Lightning and REST URL will be used.
+This system is migrated to Lightning and REST URL will be used.
 
 
 PROJECT 
@@ -135,7 +130,7 @@ Title	Metadata Analysis
 Client		WELLS FARGO
 Role		Salesforce Development/Administration
 
-	Description:
+Description:
 
 Wells Fargo Auditing team requires to track the changes going on a daily basis across all the instances of LOB in the organization like adding outside Wells Fargo’s IP Ranges, Changes in the Metadata etc.,
 This Tool helps in extracting the logs of Metadata information changes and sends across the logged in Email id’s through which the data is extracted to SPLUNK through which the Auditing team tracks the changes.
@@ -148,7 +143,7 @@ Title	Baseline Configuration Monitoring (BCM) Setup Audit Trail Automation for a
 Client		WELLS FARGO
 Role		Salesforce Development/Administration
 
-	Description:
+Description:
 Regulatory policies require that all Salesforce instances should have same “setup configuration”  to minimize the drift and security concerns, To ensure , All setup configuration changes done in Salesforce instances which are captured under “Setup Audit Trial” will be pulled automatically and the data is supplied to the business intelligence team to generate reports and setup business rules for alert generation.
 The solution will ensure that all Salesforce production and full copy sandboxes will have same set of configuration and will generate reports and alerts based on configured business rules
 This helps in getting the information related to the changes across the Metadata in the organization like changing the data type of a Custom Field etc…
@@ -160,7 +155,7 @@ Title		Field Utilization
 Client		WELLS FARGO
 Role		Salesforce Development
 
-	Description:
+Description:
 
 To get to know the Encrypted fields data across all the Standard and Custom Fields across all the Salesforce orgs in across all LOB’s.
 This gets the information of the records data related to Metadata Fields in Standard and Custom objects and its related data Storage.
