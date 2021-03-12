@@ -5,11 +5,11 @@
 
 PROFESSIONAL SUMMARY:
 
-	10 + years of total experience implementing and/or administering Salesforce.com or developing on the Force.com platform.
+	10 + years of Salesforce.com experience implementing Configuring and Customization.
 
-	Experience working in Sales Cloud, Service Cloud, Banking and Health cloud applications.
+	Experience working with Sales Cloud, Service Cloud, Banking and Health cloud applications.
 
-	Played composite role comprising of Salesforce Developer, Deployments, Administrator, Migration, Business Documentation and SFDC Testing
+	Played composite role comprising of Salesforce Developer, Deployments, Administrator, Data Migration, Business Documentation and SFDC Testing
 
 	Worked on Configuration, Customization, Synchronous and Asynchronous APEX.
 
@@ -18,8 +18,6 @@ PROFESSIONAL SUMMARY:
 	Proficient in integration using REST, Metadata APIs, Tooling API.
 
 	Proficiency working with Development tools such as Eclipse IDE, VS Code, GitHub and Deployment tools such as ANT, Auto Rabbit, COPADO and VS Code.
-
-	Identify opportunities to fine-tune and optimize applications of developed projects
 
 	Automated Post Refresh activities which are done after every deployment using Tooling API and Metadata API.
 
@@ -31,18 +29,9 @@ PROFESSIONAL SUMMARY:
 and Organization-wide Defaults, creating Profiles, setting up Role Hierarchy, Company
 profile and writing the Sharing Rules as per the Requirements. 
 
-	Initiated Ideation Project.
-
 	Worked both as independent contributor and collaboratively with a team 
 
-	Customization of Salesforce according to client requirements
-
 	Working with onsite counterpart to gather requirement and execute it to development
-
-
-
-
-
 
 EXPERIENCE SUMMARY
 
@@ -52,17 +41,17 @@ EXPERIENCE SUMMARY
 	Worked as a Software Engineer at IRIDIUM INTERACTIVE LIMITED, 
 Hyderabad from OCT 2010 to OCT 2013
 
-
 Professional Employment:  
 Key Responsibilities
 
-Deloitte Canada| Salesforce Developer|Toronto, CANADA| 25 November 202020 – Till Date
+Deloitte Canada| Salesforce Developer: Toronto, CANADA| 25 November 202020 – Till Date
 Client: HUMANA
 Development:
 
 	Working on Lightning Web Component (LWC) pages.
 	Worked with Case management and Queues.
 	Worked on Data analysis to create object structure in Salesforce to migrating from third party system (ORACLE tables). 
+	Worked with Mulesoft Team to create data in Salesforce.
 	Working on Salesforce Health Cloud
 
 Deployment:
@@ -78,15 +67,17 @@ Development:
 	Extending the Package Functionality of Existing Functionalities
 	Taking the use cases from Onsite Counterpart and converting into Technical for COE team, giving daily updates to onsite partner
 	Worked on lightning requirement for creating quick actions, SLDS, making controller requests using Aura framework.
-	Knowledge on Lightning Web Component (LWC) and events in LWC.
+	Initiated Ideation Project.
 
-
+ 
 Deployment:
 
 	Using Auto Rabbit and VS Code for Deployments considering GIT Hub as source of truth.
 	Managed code deployments from non-production to production environments
 	Extensively worked on ANT deployments to migrate metadata.
 	Responsible for collaborating with different teams for any dependencies on deployments.
+
+
 
 
 Avankia LLC. | Senior Software Engineer | Bangalore, INDIA| November 2013 – November 2015
@@ -96,14 +87,14 @@ Avankia LLC. | Senior Software Engineer | Bangalore, INDIA| November 2013 – No
 	Worked on customizing the functionality for force.com sites for various clients of target recruit.
 	Handling Candidate Portal issues related to sites.
 	Interacting with clients to understand functional requirements and develop a technical solution.
-	Performing data migration activities using ETL tool : DB Sync to migrate data between from other sources like DB Sync to Salesforce.com
+	Performing data migration activities using ETL tool: DB Sync to migrate data between from other sources like DB Sync to Salesforce.com
 	Extensively worked with business users and customized applications as per the business usage.
 
 Iridium Interactive | Software Engineer | Hyderabad, INDIA| Oct 2010 – Oct 2013
 	Working on Data load activities
 	Performing Administrative activities
 	Creating documentation for Project
-	Creating flow diagrams using Ms Visio
+	Creating flow diagrams using MS Visio
 	Salesforce Testing
 
 
@@ -115,21 +106,17 @@ GITHUB Resume
 
 TECHNICAL SKILLS
 
-Salesforce.com	Salesforce	Development
-Salesforce Admin
-JavaScript
-AURA Framework, LWC Knowledge
-SKUID Pages
+Salesforce.com	Salesforce	Development, Salesforce Admin
+JavaScript, AURA Framework, LWC, SKUID Pages
 METADATA API, SOAP API, REST API.
 
-Dev Ops Tools 	JIRA
-GITHUB (Distributed Source Control)
-Auto Rabbit
-Eclipse, VS Code
+Dev Ops Tools 	JIRA, GITHUB, COPADO, Auto Rabbit, VS Code, Eclipse 
+Auto Rabbit, Eclipse, VS Code, COPADO
 
 
 Certifications
 	Salesforce Certified Platform Developer 1  (Certification Number # 20725432)
 	Salesforce.com Certified Developer 401 (SU13)  (Certification Number # 1615078)
+	Copado Certified Administrator  006788
 
 
